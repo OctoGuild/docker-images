@@ -1,4 +1,4 @@
-IMAGE='octoguild/ffmpeg-nodejs'
+IMAGE='zvsx001/ffmpeg-nodejs'
 NODE_VERSION=18
 FFMPEG_VERSION="6.0"
 
